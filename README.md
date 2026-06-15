@@ -11,7 +11,7 @@ Built as a distributed microservice architecture, the system focuses on low-late
 ---
 
 ## Demo Video
-https://github.com/mehtar38/CryptoStar/blob/main/CryptAI.mp4
+https://github.com/mehtar38/CryptoStar/raw/main/CryptAI.mp4
 
 ## Features
 
